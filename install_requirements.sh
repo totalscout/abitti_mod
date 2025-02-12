@@ -1,0 +1,1 @@
+apt install 7z unzip rsync squashfs-tools wget xorriso -y
